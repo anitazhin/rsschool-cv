@@ -83,3 +83,9 @@ body {
 .blank-text {
     color: #ffffff;
 }
+
+.footer {
+    height: 20px; 
+    position: relative;
+    float: left;
+}
