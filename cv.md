@@ -36,3 +36,7 @@ var result = Number(negFiveAdd.toString()+negFourAdd.toString()+negThreeAdd.toSt
    return result;  
 }
 ```
+### languages
+Russian Native 
+English C1
+Turkish A2
